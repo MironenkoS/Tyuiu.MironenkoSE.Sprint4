@@ -8,7 +8,7 @@ namespace Tyuiu.MironenkoSE.Sprint4.Task3.V18.Lib
             int rows = 5;
             int colums = 5;
 
-            int count = 0;
+            int count = 1;
 
             for (int i = 0; i < rows; i++)
             {
