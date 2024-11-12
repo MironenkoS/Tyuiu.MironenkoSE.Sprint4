@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.MironenkoSE.Sprint4.Task2.V22.Lib\Tyuiu.MironenkoSE.Sprint4.Task2.V22.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.MironenkoSE.Sprint4.Task2.V22.Lib\Tyuiu.MironenkoSE.Sprint4.Task3.V18.Lib.csproj" />
   </ItemGroup>
 
   <ItemGroup>
@@ -17,3 +17,4 @@
   </ItemGroup>
 
 </Project>
+
