@@ -1,4 +1,4 @@
-namespace Tyuiu.MironenkoSE.Sprint4.Task.V18.Test
+namespace Tyuiu.MironenkoSE.Sprint4.Task3.V18.Test
 {
     [TestClass]
     public class DataServiceTest
