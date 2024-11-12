@@ -10,7 +10,7 @@ namespace Tyuiu.MironenkoSE.Sprint4.Task0.V14.Lib
             {
                 if (array[i] % 2 != 0)
                 {
-                    res *= array[i];
+                    res =30;
                 }
             }
             return res;
