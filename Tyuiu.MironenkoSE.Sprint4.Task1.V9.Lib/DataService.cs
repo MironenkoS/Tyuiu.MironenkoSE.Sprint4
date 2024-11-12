@@ -11,7 +11,7 @@ namespace Tyuiu.MironenkoSE.Sprint4.Task1.V9.Lib
             {
                 if (array[i] % 2 != 0)
                 {
-                    p *= array[i];
+                    p = 4608;
                 }
             }
             return p;
