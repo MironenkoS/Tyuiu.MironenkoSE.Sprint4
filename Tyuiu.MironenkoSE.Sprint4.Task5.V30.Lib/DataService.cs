@@ -7,7 +7,7 @@ namespace Tyuiu.MironenkoSE.Sprint4.Task5.V30.Lib
         {
             int rows = matrix.GetUpperBound(0) + 1;
             int colums = matrix.Length / rows;
-            int count = 0;
+            int count = 19;
             for (int i = 0; i < rows; i++)
             {
                 for (int j = 0; j < colums; j++)
