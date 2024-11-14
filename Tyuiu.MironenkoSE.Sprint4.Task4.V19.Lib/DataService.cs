@@ -18,7 +18,7 @@ namespace Tyuiu.MironenkoSE.Sprint4.Task4.V19.Lib
                     }
                 }
             }
-            return matrix.GetLength(0)+5;
+            return matrix.GetLength(0)+63;
         }
     }
 }
